@@ -1,14 +1,9 @@
 streamlit
 python-dotenv
-
 langchain
 langchain-core
 langchain-community
 langchain-mistralai
 langchain-huggingface
-
 mistralai
-
 tavily-python
-
-requests
